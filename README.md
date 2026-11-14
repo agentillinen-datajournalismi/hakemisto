@@ -35,8 +35,15 @@ Tämä hakemisto kokoaa yhteen avoimia työkaluja, MCP-palvelimia (Model Context
 
 ---
 
-## 4. Kansainväliset esikuvat & tutkimukset
+## 4. Avoimet menetelmät & tutkimukset (Open Methodology)
 
+### A. Menetelmäkuvaukset ja case-analyysit (Case Studies)
+* **[Arkistoharavointi ja sukupolvihyppy vieraskielisissä aineistoissa](menetelmat/case-arkistoharavointi-ja-sukupolvihaku.md):**
+  * Kuvaus siitä, miten vieraalla kielellä laadittu 60 000 taltion historiallinen valvonta-arkisto (ÁBTL) otetaan haltuun systemaattisella agentillisella haulla.
+  * Hyödyntää 1950-luvun yleisimpiä suku- ja etunimiä sekä sukupolvihyppyä vuoden 1920 suomalaisten äitien etunimiin (`anyja_neve`).
+  * Sisältää eettisen tiedonkeruun periaatteet, kohinanpoistologiikan sekä avoimet nimisanastot ilman yksilöityjä henkilötietoja (*Zero-PII*).
+
+### B. Kansainväliset esikuvat
 * **Operação Serenata de Amor (*Rosie & Jarbas*):** Brasilialainen avoimen lähdekoodin tekoälyjärjestelmä kansanedustajien kulukorvausanomalioiden tunnistamiseen.
 * **Querido Diário (*Open Knowledge Brasil*):** Kuntien virallisten PDF-päätöslehtien automaattinen muuntaminen avoimeksi dataksi.
 * **CruzaGrafos (*ABRAJI & Brasil.IO*):** Poliitikkojen, yritysten, vaalirahoituksen ja julkisten sopimusten verkostograafi.
