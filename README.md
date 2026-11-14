@@ -44,9 +44,9 @@ Tämä hakemisto kokoaa yhteen avoimia työkaluja, MCP-palvelimia (Model Context
   * Sisältää eettisen tiedonkeruun periaatteet, kohinanpoistologiikan sekä avoimet nimisanastot ilman yksilöityjä henkilötietoja (*Zero-PII*).
 
 ### B. Kansainväliset esikuvat
-* **Operação Serenata de Amor (*Rosie & Jarbas*):** Brasilialainen avoimen lähdekoodin tekoälyjärjestelmä kansanedustajien kulukorvausanomalioiden tunnistamiseen.
-* **Querido Diário (*Open Knowledge Brasil*):** Kuntien virallisten PDF-päätöslehtien automaattinen muuntaminen avoimeksi dataksi.
-* **CruzaGrafos (*ABRAJI & Brasil.IO*):** Poliitikkojen, yritysten, vaalirahoituksen ja julkisten sopimusten verkostograafi.
+* **[Operação Serenata de Amor (*Rosie & Jarbas*)](tutkimukset/serenata-de-amor/README.md):** Brasilialainen avoimen lähdekoodin hybridi poikkeamaseulonta- ja kansalaisvalvontajärjestelmä kansanedustajien kulukorvausten tarkastamiseen *(Osa 1/3: faktantarkistettu tutkimusraportti & sovellettavuus Suomeen)*.
+* **Querido Diário (*Open Knowledge Brasil*):** Kuntien virallisten PDF-päätöslehtien automaattinen muuntaminen avoimeksi dataksi *(tulossa – Osa 2/3)*.
+* **CruzaGrafos (*ABRAJI & Brasil.IO*):** Poliitikkojen, yritysten, vaalirahoituksen ja julkisten sopimusten verkostograafi *(tulossa – Osa 3/3)*.
 
 ---
 
