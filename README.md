@@ -37,16 +37,18 @@ Tämä hakemisto kokoaa yhteen avoimia työkaluja, MCP-palvelimia (Model Context
 
 ## 4. Avoimet menetelmät & tutkimukset (Open Methodology)
 
+> Tämä hakemisto kokoaa suorat linkit tekijöiden omissa repositorioissa julkaisemiin avoimiin menetelmiin ja esikuvatutkimuksiin.
+
 ### A. Menetelmäkuvaukset ja case-analyysit (Case Studies)
-* **[Arkistoharavointi ja sukupolvihyppy vieraskielisissä aineistoissa](menetelmat/case-arkistoharavointi-ja-sukupolvihaku.md):**
+* **[Arkistoharavointi ja sukupolvihyppy vieraskielisissä aineistoissa](https://github.com/pnurmela/datajournalismi-tutkimukset/blob/main/menetelmat/case-arkistoharavointi-ja-sukupolvihaku.md)** *(Tekijä: Pekka Nurmela)*:
   * Kuvaus siitä, miten vieraalla kielellä laadittu 60 000 taltion historiallinen valvonta-arkisto (ÁBTL) otetaan haltuun systemaattisella agentillisella haulla.
   * Hyödyntää 1950-luvun yleisimpiä suku- ja etunimiä sekä sukupolvihyppyä vuoden 1920 suomalaisten äitien etunimiin (`anyja_neve`).
   * Sisältää eettisen tiedonkeruun periaatteet, kohinanpoistologiikan sekä avoimet nimisanastot ilman yksilöityjä henkilötietoja (*Zero-PII*).
 
 ### B. Kansainväliset esikuvat
-* **[Operação Serenata de Amor (*Rosie & Jarbas*)](tutkimukset/serenata-de-amor/README.md):** Brasilialainen avoimen lähdekoodin hybridi poikkeamaseulonta- ja kansalaisvalvontajärjestelmä kansanedustajien kulukorvausten tarkastamiseen *(Osa 1/3: faktantarkistettu tutkimusraportti & sovellettavuus Suomeen)*.
-* **Querido Diário (*Open Knowledge Brasil*):** Kuntien virallisten PDF-päätöslehtien automaattinen muuntaminen avoimeksi dataksi *(tulossa – Osa 2/3)*.
-* **CruzaGrafos (*ABRAJI & Brasil.IO*):** Poliitikkojen, yritysten, vaalirahoituksen ja julkisten sopimusten verkostograafi *(tulossa – Osa 3/3)*.
+* **[Operação Serenata de Amor (*Rosie & Jarbas*)](https://github.com/pnurmela/datajournalismi-tutkimukset/blob/main/tutkimukset/serenata-de-amor/README.md)** *(Tekijä: Pekka Nurmela)*: Brasilialainen avoimen lähdekoodin hybridi poikkeamaseulonta- ja kansalaisvalvontajärjestelmä kansanedustajien kulukorvausten tarkastamiseen *(Osa 1/3: faktantarkistettu tutkimusraportti & sovellettavuus Suomeen)*.
+* **[Querido Diário (*Open Knowledge Brasil*)](https://github.com/pnurmela/datajournalismi-tutkimukset/blob/main/tutkimukset/querido-diario/01_suunnitelma_ja_prompt.md)** *(Tekijä: Pekka Nurmela)*: Kuntien virallisten PDF-päätöslehtien automaattinen muuntaminen avoimeksi dataksi *(suunnitelma & prompti valmiina – Osa 2/3)*.
+* **[CruzaGrafos, Brasil.IO & Minha Receita (*ABRAJI & OKBR*)](https://github.com/pnurmela/datajournalismi-tutkimukset/blob/main/tutkimukset/cruzagrafos/01_suunnitelma_ja_prompt.md)** *(Tekijä: Pekka Nurmela)*: Poliitikkojen, yritysten, vaalirahoituksen ja julkisten sopimusten verkostograafi *(suunnitelma & prompti valmiina – Osa 3/3)*.
 
 ---
 
